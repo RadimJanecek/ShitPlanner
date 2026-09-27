@@ -1,4 +1,4 @@
-# 📅 Shift Planner
+# Shift Planner
 
 An intelligent, Java-based desktop application designed to automate shift scheduling for small and medium-sized businesses (cafes, restaurants, retail shops, or receptions). 
 
@@ -6,18 +6,18 @@ Say goodbye to messy Excel spreadsheets. Shift Planner automatically enforces re
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-* **🧠 Smart Scheduling Algorithm:** Automatically assigns shifts based on employee capacity, approved time-off, and daily coverage requirements.
-* **🛡️ Built-in Compliance:** Strictly enforces minimum rest periods between shifts (e.g., 11 hours) and monitors working time limits (FTE).
-* **🤝 Advanced Rules:** Set up "Forbidden Pairs" (employees who cannot work together) or enforce policies like ensuring part-timers are never left alone on a shift.
+* ** Smart Scheduling Algorithm:** Automatically assigns shifts based on employee capacity, approved time-off, and daily coverage requirements.
+* ** Built-in Compliance:** Strictly enforces minimum rest periods between shifts (e.g., 11 hours) and monitors working time limits (FTE).
+* ** Advanced Rules:** Set up "Forbidden Pairs" (employees who cannot work together) or enforce policies like ensuring part-timers are never left alone on a shift.
 * **🖨️ Professional Exports:** Instant high-performance **PDF printing** (with dynamic layout scaling and landscape support) or **CSV (Excel)** export for payroll accountants.
-* **📂 Drafts & History:** Save work-in-progress schedules as "Drafts" or securely lock approved months into the permanent "History" archive.
-* **🌍 Full Localization:** Seamlessly switch between **English and Czech** UI in real-time.
+* ** Drafts & History:** Save work-in-progress schedules as "Drafts" or securely lock approved months into the permanent "History" archive.
+* ** Full Localization:** Seamlessly switch between **English and Czech** UI in real-time.
 
 ---
 
-## 💻 Screenshots
+## Screenshots
 
 *(Add your application screenshots here!)*
 
@@ -27,7 +27,7 @@ Say goodbye to messy Excel spreadsheets. Shift Planner automatically enforces re
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 This project was built to demonstrate clean Object-Oriented Programming (OOP) principles and efficient local data management:
 
@@ -40,7 +40,7 @@ This project was built to demonstrate clean Object-Oriented Programming (OOP) pr
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### For End-Users (Windows)
 Download the ready-to-use `ShiftPlanner.exe` from the **[Releases](#)** page and run it directly. No Java installation required!
