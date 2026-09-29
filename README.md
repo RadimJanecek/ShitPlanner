@@ -11,19 +11,9 @@ Say goodbye to messy Excel spreadsheets. Shift Planner automatically enforces re
 * ** Smart Scheduling Algorithm:** Automatically assigns shifts based on employee capacity, approved time-off, and daily coverage requirements.
 * ** Built-in Compliance:** Strictly enforces minimum rest periods between shifts (e.g., 11 hours) and monitors working time limits (FTE).
 * ** Advanced Rules:** Set up "Forbidden Pairs" (employees who cannot work together) or enforce policies like ensuring part-timers are never left alone on a shift.
-* **🖨️ Professional Exports:** Instant high-performance **PDF printing** (with dynamic layout scaling and landscape support) or **CSV (Excel)** export for payroll accountants.
+* ** Professional Exports:** Instant high-performance **PDF printing** (with dynamic layout scaling and landscape support) or **CSV (Excel)** export for payroll accountants.
 * ** Drafts & History:** Save work-in-progress schedules as "Drafts" or securely lock approved months into the permanent "History" archive.
 * ** Full Localization:** Seamlessly switch between **English and Czech** UI in real-time.
-
----
-
-## Screenshots
-
-*(Add your application screenshots here!)*
-
-1. **[Main Dashboard & Employee Management]**(vlož_odkaz_na_obrazek_zde)
-2. **[Interactive Shift Grid]**(vlož_odkaz_na_obrazek_zde)
-3. **[Exported PDF Schedule]**(vlož_odkaz_na_obrazek_zde)
 
 ---
 
